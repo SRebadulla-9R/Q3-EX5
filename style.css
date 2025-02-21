@@ -1,0 +1,81 @@
+h1 {
+  padding: 30px;
+  font-family: "Pixelify Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  color: #AA60C8;
+}
+
+summary {
+  font-family: "Pixelify Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D69ADE;
+}
+
+label {
+  font-family: "Pixelify Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D69ADE;
+}
+
+body {
+  background-color: #FFDFEF;
+}
+
+h5 {
+  font-family: "Pixelify Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D69ADE;
+}
+
+p {
+  font-family: "Pixelify Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #D69ADE;
+}
+
+hr {
+  border-width: 5px;
+  border-style: solid;
+  border-color: #D69ADE;
+  border-radius: 5px;
+}
+
+.main {
+  background-color: #FFDFEF;
+  border-style: solid;
+  padding: 30px;
+  margin-top: 40px;
+  border-radius: 15px;
+  border-color: #AA60C8;
+}
+
+.given label {
+  font-family: "Pixelify Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #AA60C8;
+}
+
+input {
+  font-family: "Pixelify Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+  border-color: #AA60C8;
+}
+
+button {
+  border-color: #AA60C8;
+  background-color: #EABDE6;
+  border-radius:50px;
+  font-family: "Pixelify Sans", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #AA60C8;
+}
